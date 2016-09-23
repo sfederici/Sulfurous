@@ -1,0 +1,6 @@
+{
+  "name": "Hydrogen",
+  "tagline": "",
+  "body": "Hydrogen\r\nhydrogen, just like sulfurous and phosphorus, runs your Scratch projects really fast by compiling them to JavaScript. Try it out by pasting a URL or project ID into the field below or choosing an example. You can also drag a local .sb2 project onto this page.\r\n\r\nhttp://scratch.mit.edu/projects/\r\n\r\nCredits\r\nHydrogen was created by Stefano Federici and is based off Sulfurous, which was created by Mittagskogel. Its CPS-style compilation and overall design was inspired by Rhys Simpson's sb2.js. It would have more bugs if not for Truman Kilen. It uses the JSZip library, created by Stuart Knightley, David Duponchel, Franz Buchinger, and António Afonso, to read .sb2 files and compressed projects, and the canvg library, created by Gabe Lerner, to render SVGs in <canvas> elements.\r\n\r\nCode\r\nThe source code for sulfurous is available on GitHub. See Sulfurous for the original version.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
